@@ -1,0 +1,27 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/button_state1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/main_bottom_selector_1"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/main_tab01"
+        android:textColor="@drawable/main_bottom_text_selecter"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/button_state2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/main_bottom_selector_2"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/main_tab02"
+        android:textColor="@drawable/main_bottom_text_selecter"
+        android:textSize="12sp" />
+
+</merge>

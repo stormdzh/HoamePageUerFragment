@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+      <string name="main_tab01">首页</string>
+    <string name="main_tab02">关于</string>
+
+</resources>
